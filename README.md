@@ -1,2 +1,2 @@
-# habit-tracky
-A habit tracker for desktop (windows) written using python. Feel free to contribute!
+# Habit Tracky
+A habit tracker for desktop (windows) written using java. Feel free to contribute!
